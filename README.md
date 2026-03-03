@@ -29,13 +29,13 @@ Starting from a standard DQN Snake tutorial, I added:
 **Key finding:** Target network achieves higher mean score (17.3 vs 16.4) with smoother convergence. Single DQN shows higher peak scores but unstable training — consistent with overestimation bias expected without a target network.
 
 ### Base DQN (no obstacles)
-![Base DQN](results_base_dqn.png)
+![Base DQN](without obstacle and path based reward.png)
 
 ### Single DQN (with obstacles + reward shaping)
-![Single DQN](results_single_dqn.png)
+![Single DQN](single_dqn.png)
 
 ### Target Network DQN (with obstacles + reward shaping)
-![Target Network](results_target_network.png)
+![Target Network](double_dqn.png)
 
 ---
 
