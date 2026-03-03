@@ -30,15 +30,15 @@ Starting from a standard DQN Snake tutorial, I added:
 
 ### Base DQN (no obstacles)
 
-![Base DQN](base_dqn.png)
+![Base DQN](base_dqn.jpg)
 
 ### Single DQN (with obstacles + reward shaping)
 
-![Single DQN](single_dqn.png)
+![Single DQN](single_dqn.jpg)
 
 ### Target Network DQN (with obstacles + reward shaping)
 
-![Target Network](double_dqn.png)
+![Target Network](double_dqn.jpg)
 
 ---
 
