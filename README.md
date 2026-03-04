@@ -169,8 +169,11 @@ A single hidden layer struggles to learn the non-linear relationships between da
 ---
 
 ## 📚 References
-- [Playing Atari with Deep Reinforcement Learning — DeepMind (2013)](https://arxiv.org/abs/1312.5602)
-- [Human-level control through deep reinforcement learning — Nature (2015)](https://www.nature.com/articles/nature14236)
+- [1] O. Khamis, S. Zelaya, M. Karunanithi, A. Hassan, 
+L. Ali, and S. A. A. Rizvi, 
+"Reinforcement Learning for an Automated Snake Game," 
+2025 International Conference on [Conference Name], IEEE, 2025. 
+Available: https://ieeexplore.ieee.org/document/11299790
 
 ---
 
